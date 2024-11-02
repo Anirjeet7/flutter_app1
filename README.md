@@ -1,6 +1,6 @@
 # flutter_app1
 
-A new Flutter project.
+Trying to build a movie app.
 
 ## Getting Started
 
